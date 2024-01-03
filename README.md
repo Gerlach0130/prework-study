@@ -12,7 +12,7 @@ N/A
 
 Prework Study Guide for reference purposes, can use console to execute JavaScript
 
-![alt text](assets/images/screenshot.png)
+![alt text](./prework-study-guide/prework-study-guide/assets/images/screenshot.png)
 
 ## Credits
 
